@@ -1,0 +1,12 @@
+{
+  "name": "shop-hub",
+  "version": "1.0.0",
+  "description": "E-commerce web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Radit Maruf Polok",
+  "license": "MIT"
+}
